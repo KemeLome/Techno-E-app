@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kemelome.twa",
+        "sha256_cert_fingerprints": ["7B:0E:0A:D1:03:28:21:F6:86:1B:90:89:43:45:DC:30:EF:89:2B:4E:AA:94:1B:C1:F9:ED:F2:DC:AD:BA:B9:CC"]
+      }
+    }]
