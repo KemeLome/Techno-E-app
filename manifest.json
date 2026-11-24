@@ -1,24 +1,24 @@
 {
-  "name": "Techno E Servis | أنظمة طاقة وإنفرترات",
+  "name": "Techno E Servis | أجهزة وطاقة بديلة",
   "short_name": "Techno E",
-  "description": "التطبيق الرسمي لمركز وورشة Techno E Servis لأنظمة الطاقة البديلة، الإنفرترات، البطاريات، والإنارة في دمشق - المزة.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "description": "متجر ومركز صيانة Techno E Servis لبيع وصيانة أجهزة الطاقة البديلة والإنفرترات والبطاريات والمنتجات المتنوعة.",
+  "start_url": "/Techno-E-app/",
+  "scope": "/Techno-E-app/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0a0e17",
-  "theme_color": "#0a0e17",
+  "background_color": "#0b1217",
+  "theme_color": "#0b1217",
   "dir": "rtl",
   "lang": "ar",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/Techno-E-app/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/Techno-E-app/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
