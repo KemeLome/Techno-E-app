@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.kemelome.twa",
-        "sha256_cert_fingerprints": ["C1:73:19:43:1D:F5:57:C0:22:02:78:0E:25:E4:82:00:05:74:6F:FF:29:B9:49:2A:7C:15:DA:A4:0E:F7:48:63"]
+        "sha256_cert_fingerprints": ["5F:86:0B:14:E5:5C:43:68:E0:56:35:03:08:D3:88:8F:59:66:00:38:E8:F6:28:57:FA:B6:DF:C0:8E:FE:DF:AC"]
       }
     }]
