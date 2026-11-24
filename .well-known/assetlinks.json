@@ -1,8 +1,12 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.kemelome.twa",
-        "sha256_cert_fingerprints": ["5F:86:0B:14:E5:5C:43:68:E0:56:35:03:08:D3:88:8F:59:66:00:38:E8:F6:28:57:FA:B6:DF:C0:8E:FE:DF:AC"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.kemelome.twa",
+      "sha256_cert_fingerprints": [
+        "5F:86:0B:14:E5:5C:43:68:E0:56:35:03:08:D3:88:8F:59:66:00:38:E8:F6:28:57:FA:B6:DF:C0:8E:FE:DF:AC"
+      ]
+    }
+  }
+]
